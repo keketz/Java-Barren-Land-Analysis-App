@@ -42,7 +42,7 @@ Sample Outputs
 1. 116800 116800
 2. 22816 192608
 
-##Implementaion
+## Implementaion
 #### Personal Javascript Solution
 The first solution I tried was my own which involved using javascripts array functions to filter, split, join, and push array values around. The solution worked for a small scale, but cause the website to overload at larger scales and crash. I tried the solution in java as well with similar results. Below is the solution:
 
